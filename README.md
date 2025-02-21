@@ -1,1 +1,3 @@
-# pbob-docs
+﻿# pbob-docs
+
+Whitepaper and documentation
