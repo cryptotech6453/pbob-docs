@@ -1,3 +1,2 @@
 ﻿# pbob-docs
-
-Whitepaper and documentation
+Whitepaper and documentation (Poker Backing on Blockchain)
